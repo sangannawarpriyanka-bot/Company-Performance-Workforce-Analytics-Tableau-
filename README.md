@@ -1,5 +1,8 @@
 # 📊 Organizational Performance & Compensation Dashboard (Tableau)
 
+<img width="800" height="370" alt="image" src="https://github.com/user-attachments/assets/94733fb7-8baf-4909-bbf0-26c68c3f1353" />
+
+
 ## 📌 Project Overview
 This project presents an **interactive Tableau dashboard** that provides deep insights into **organizational performance, revenue trends, workforce distribution, and compensation analysis** across multiple companies and departments.
 
