@@ -1,5 +1,3 @@
-# Company-Performance-Workforce-Analytics-Tableau-
-
 # 📊 Organizational Performance & Compensation Dashboard (Tableau)
 
 ## 📌 Project Overview
@@ -12,6 +10,9 @@ The dashboard is designed to support **data-driven decision-making** for managem
 ## 🧩 Dashboards Included
 
 ### 1️⃣ Organizational Performance Overview 🏢
+
+<img width="793" height="361" alt="Organizational Performance Overview" src="https://github.com/user-attachments/assets/89d7e90a-ed2b-4bfb-a109-99f162dbe57c" />
+
 **Key Insights:**
 - 💰 **Company-Level Revenue Contribution**
 - 📈 **Revenue & Performance Trends Over Time**
@@ -25,6 +26,9 @@ To evaluate overall company performance and identify high- and low-performing bu
 ---
 
 ### 2️⃣ Job Level Distribution by Department 👔
+
+<img width="1588" height="714" alt="Company Performance Overview" src="https://github.com/user-attachments/assets/f13a2754-0e8a-4e3d-bed0-d0b25e5b0b90" />
+
 **Highlights:**
 - 👶 Junior  
 - 🧑‍💼 Mid-Level  
@@ -37,6 +41,9 @@ Department-wise job level distribution using **pie charts** for quick comparison
 ---
 
 ### 3️⃣ Compensation Insights Dashboard 💵
+
+<img width="789" height="359" alt="Compensation Insight Dashboard" src="https://github.com/user-attachments/assets/f736dcf1-5473-4440-bda4-a326a5f7e955" />
+
 **Key Components:**
 - 📊 **Average Salary Comparison by Company**
 - 🧾 **Average Salary by Job Level**
