@@ -1,6 +1,83 @@
 # Company-Performance-Workforce-Analytics-Tableau-
 
-#🚀 Project Overview:
+# 📊 Organizational Performance & Compensation Dashboard (Tableau)
 
-This Tableau project analyzes **company workforce performance and hiring trends** using employee-level data.  
-The dashboard focuses on **HR insights, revenue contribution, hiring growth**, and **regional distribution** to support data-driven decision-making.
+## 📌 Project Overview
+This project presents an **interactive Tableau dashboard** that provides deep insights into **organizational performance, revenue trends, workforce distribution, and compensation analysis** across multiple companies and departments.
+
+The dashboard is designed to support **data-driven decision-making** for management, HR, and business leaders.
+
+---
+
+## 🧩 Dashboards Included
+
+### 1️⃣ Organizational Performance Overview 🏢
+**Key Insights:**
+- 💰 **Company-Level Revenue Contribution**
+- 📈 **Revenue & Performance Trends Over Time**
+- 🧮 **Performance Score Analysis**
+- 👥 **Employee Distribution by Region**
+- 🏭 **Department-wise Revenue Distribution**
+
+**Purpose:**  
+To evaluate overall company performance and identify high- and low-performing business areas.
+
+---
+
+### 2️⃣ Job Level Distribution by Department 👔
+**Highlights:**
+- 👶 Junior  
+- 🧑‍💼 Mid-Level  
+- 🧓 Senior  
+- 🧑‍🏫 Manager  
+
+**Visualization:**  
+Department-wise job level distribution using **pie charts** for quick comparison.
+
+---
+
+### 3️⃣ Compensation Insights Dashboard 💵
+**Key Components:**
+- 📊 **Average Salary Comparison by Company**
+- 🧾 **Average Salary by Job Level**
+- 🔗 **Salary vs Performance Relationship**
+- 🧠 **Salary Distribution by Department**
+- 🔍 **Drill-down Analysis (Company → Job Level)**
+
+**Purpose:**  
+To understand compensation fairness, performance alignment, and salary structure.
+
+---
+
+## 🎯 Key Business Insights
+- 🚀 High-performing companies also show strong revenue contribution
+- 📉 Salary does not always increase linearly with performance
+- 🏆 Senior and managerial roles contribute significantly to overall compensation
+- 🏭 Departments like **Sales & Operations** generate higher revenue impact
+
+---
+
+## 🛠️ Tools & Technologies Used
+- 📊 **Tableau Desktop**
+- 🧮 **Excel / CSV Dataset**
+- 🗂️ **Data Visualization & Storytelling**
+- 📍 **Calculated Fields & Filters**
+- 🔄 **Drill-down & Interactive Actions**
+
+---
+
+## 📁 Dataset Details
+- Company Name  
+- Department  
+- Job Level  
+- Salary  
+- Performance Score  
+- Revenue  
+- Region  
+- Joining Date  
+
+*(Dataset is synthetic and used for learning & portfolio purposes)*
+
+---
+
+##
